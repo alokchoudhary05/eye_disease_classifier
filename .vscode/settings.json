@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./disease/Lib/mail",
+        "./disease/Lib/site-packages/setuptools/sand",
+        "./venv/Lib/site-packages/setuptools/sand"
+    ]
+}
